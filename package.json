@@ -1,0 +1,19 @@
+{
+  "name": "neural-network-svg",
+  "version": "1.0.1",
+  "description": "",
+  "main": "neural-network.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonaslalin/neural-network-svg.git"
+  },
+  "author": "Jonas Lalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonaslalin/neural-network-svg/issues"
+  },
+  "homepage": "https://github.com/jonaslalin/neural-network-svg"
+}
